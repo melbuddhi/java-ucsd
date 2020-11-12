@@ -1,4 +1,4 @@
-#Basic codes in Java
+# Basic codes in Java
 
 These are basic implementations in Java I've done as a part of the learning process. These are not completely basic implementations like the trivial ones which
 go by the lines of "Hello, World!". Although they are very important to start with Java, I think everyone has their own ways of starting out. So, maybe not refering
@@ -9,7 +9,7 @@ provided by University of California, San Diego. It's a specialization material 
 
 I recommend anyone who knows a tiny bit about Java and interested in learning more, to take up this course. Details regarding the same are at the bottom. 
 
-#What codes are currently in this repository?
+## What codes are currently in this repository?
 
 You'll find the following implementation in the "src" folder:
 
@@ -27,7 +27,7 @@ File name: InsertionSort.java
 
 File name: BuiltinSort.java
 
-#Course Details:
+## Course Details:
 
 Before taking up this specialisation, I suggest to learn the basics of Java (although the specialisation provides enough support) like input/output, variables, 
 arrays etc. for a better experience.
